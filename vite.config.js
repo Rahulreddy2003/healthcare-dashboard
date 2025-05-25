@@ -3,6 +3,6 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
+  base: "/", // base must be "/"
   plugins: [react()],
-  base: './', // ✅ This is what Vercel needs to correctly resolve paths
-})
+});
