@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  // ⚠️ Don't include a `base` unless deploying to GitHub Pages
+  base: './', // ✅ This is what Vercel needs to correctly resolve paths
 })
