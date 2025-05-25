@@ -1,0 +1,10 @@
+
+.upcoming-schedule {
+  background: #fff;
+  padding: 16px;
+  border-radius: 12px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+.schedule-group {
+  margin-top: 12px;
+}

@@ -1,0 +1,10 @@
+
+.dashboard-main {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+.dashboard-row {
+  display: flex;
+  gap: 24px;
+}

@@ -1,0 +1,8 @@
+
+.appointment-card {
+  background: #f7f9fc;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+  margin-bottom: 8px;
+}
